@@ -1,6 +1,6 @@
 Package: OnewayCorrToep
 Type: Package
-Title: Evaluate the observed, critical and P-values of the LRT and asymptotic LRT statistics for testing a special Toeplitz covariance structure and homogeneity of mean treatment effects in a one-way ANOVA with that special Toeplitz error structure
+Title: Evaluate the observed, critical and P-values of the LRT and asymptotic LRT statistics as well as simulatneous confidence intervals for testing a special Toeplitz covariance structure and homogeneity of mean treatment effects in a one-way ANOVA with that special Toeplitz error structure
 Version: 0.1.0
 Author: Raju Dey
 Maintainer: The package maintainer <rajudey.cob1997@gmail.com>
